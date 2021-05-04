@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Beadando feladat</title>
+  <style>
+	header, footer{
+	display: block;
+	}
+		.fejlec{
+			font-size: 18pt;
+			font-family: Helvetica;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			font-weight: bold;
+
+		}
+
+		.lablec {
+			width: 560px;
+			font-size: 10pt;
+			margin-top: 40px;
+			border-top: 3px #888888 double;
+			padding-top: 30px;
+			text-align:center;
+			font-family: Helvetic;
+
+		}			
+
+	</style>
+ 
+ </head>
+ <body>
+  
+<table align="center" style="table-layout:fixed; font-family:tahoma; font-size:14pt; background:url('kep2.jpg'); color:white" border="0">
+
+<tr style="height:120px">
+	<td colspan="3" style="width:500px; text-align:left">
+		<a href="alap.html" target="keret"><img src="vissza.png" height="100" border="0" alt=""></a></td>
+</tr>
+
+	<header id="fejlec" class="fejlec">
+<tr style="height:30px; font-weight:bold">
+	<td style="text-align:center">
+		<a href="analizis1.html" target="keret"><font style="color:white;
+		text-decoration:none">Analízis</font></a>
+		</td>
+		<td style="text-align:center">
+		<a href="fizika1.html" target="keret"><font style="color:white;
+		text-decoration:none">Fizika</font></a>
+		</td>
+		<td style="text-align:center">
+		<a href="algebra.html" target="keret"><font style="color:white;
+		text-decoration:none">Algebra</font></a>
+		</td>
+		</tr>
+		</header>
+
+		<tr style="height:350px">
+			<td colspan="3" style="text-align:center">
+				<iframe name="keret" src="alap.html" width="100%" height="350" scrolling="auto" frameborder="0" marginheight="10" marginwidth="20">
+				</iframe>
+				</td>
+				</tr>
+				<footer id="lablec" class="lablec">
+				<tr style="height:40px">
+					<td colspan="3" style="width:1000px; text-align:center">
+					&copy; Minden jog fenntartva!
+					</td>
+					</tr>
+					 </footer>
+
+
+
+
+
+
+</table>
+ </body>
+</html>

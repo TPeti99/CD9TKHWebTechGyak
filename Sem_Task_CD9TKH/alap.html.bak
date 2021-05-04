@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <title>Beadando</title>
+  <style>
+	footer{
+	display: block;
+
+		.lablec {
+			width: 560px;
+			font-size: 10pt;
+			margin-top: 40px;
+			border-top: 3px #888888 double;
+			padding-top: 30px;
+			text-align:center;
+			font-family: Helvetic;
+
+		}			
+
+	</style>
+ </head>
+ <body style="background:transparent; color:white; font-family:tahoma; font-size:12pt">
+  
+<br><br>
+
+<b>Üdvözlöm a honlapon!</b>
+	
+<br><br>
+
+Ez a weblap 3 tantárgy tematikáját mutatja be.
+
+<br><br>
+
+<b>Források:</b>
+
+<br>
+<footer id="lablec" class="lablec">
+https://gepesz.uni-miskolc.hu/adatlap.hu.php?i=603<br>
+https://gepesz.uni-miskolc.hu/adatlap.hu.php?i=229<br>
+https://geik.uni-miskolc.hu/intezetek/EEI/adatlap.hu.php?i=156
+
+    </footer>
+
+ </body>
+
+</html>

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Fizika</title>
+ </head>
+ <body style="background:transparent; color:white; font-size15pt; font-family:tahoma">
+
+ <br><br><br>
+ <font style="float:right"><b>A tárgy oktatója:</b></font><br>
+ <font style="float:right"><b>Dr.Pszota Gábor</b></font>
+ <br>
+ <img src="fizika.jpg" height="200" border="0" alt="" style="float:right">
+<b>Fizika tematika</b>
+<ul>
+	<li>Kinematikai alapfogalmak
+	<li>Newton axiómák
+	<li>Teljesítmény, munka, energia
+	<li>Lineáris szabad rezgés
+	<li>Gerjesztett rezgés
+	<li>Hidrosztatika. Felületi jelenségek
+	<li>Az egyatomos ideális gáz
+	<li>A hőtan első főtétele
+	<li>Körfolyamatok. Szilárd testek és folyadékok hőtana
+	<li> Áramsűrűség, áramerősség fogalma
+	<li>Elektromos töltés, térerősség, potenciál
+	<li>Vezetők elektrosztatikus mezőben
+	<li>Áramforrások, elektromotoros erő
+	<li>Áramvezetés fémekben
+	<li>A Joule-törvény integrális alakja
+	<li>Egyenáramú hálózatok
+</ul>
+</table>
+  
+ </body>
+</html>

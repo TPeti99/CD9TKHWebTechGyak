@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Fizika</title>
+ </head>
+ <body style="background:transparent; color:white; font-size15pt; font-family:tahoma">
+
+ <br><br><br>
+ <font style="float:right"><b>A tárgy oktatója:</b></font><br>
+ <font style="float:right"><b>Dr. Rakaczki Csaba</b></font>
+ <br>
+ <img src="algebra.jpg" height="200" border="0" alt="" style="float:right">
+<b>Algebra tematika</b>
+<ul>
+	<li>A 3-dimenziós valós vektortér, vektoralgebra, egyenes és sík egyenlete
+	<li>Pivotálási technika
+	<li>Lineáris egyenletrendszerek megoldása a pivotálási technikával
+	<li>Homogén és inhomogén lineáris egyenletrendszerek
+	<li>Mátrixok
+	<li>Mátrix műveletek
+	<li>Mátrix rangja
+	<li>Mátrix inverze
+	<li> Komplex számok
+	<li>Trigonometrikus alak
+	<li>Polinomok maradékos osztása
+	<li>Polinomok faktorizációja
+	<li>Algebra alaptétele
+	<li>Horner elrendezés
+</ul>
+</table>
+  
+ </body>
+</html>
